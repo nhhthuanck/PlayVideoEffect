@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DetailVideoViewController.h
 //  PlayVideo
 //
 //  Created by Hoang Thuan on 10/23/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DetailVideoViewController : UIViewController
 
 @end
-
